@@ -1,0 +1,3 @@
+rootProject.name = 'PridePlus-1.8.9'
+include 'prideplus-lib'
+
